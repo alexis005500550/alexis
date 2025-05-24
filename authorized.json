@@ -1,0 +1,7 @@
+{
+  "authorizedUsers": [
+    {"username": "alice"},
+    {"username": "bob"},
+    {"username": "charlie"}
+  ]
+}
